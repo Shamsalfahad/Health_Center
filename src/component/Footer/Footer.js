@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./footer.css"
 
 const Footer = () => {
   return (
@@ -7,7 +8,7 @@ const Footer = () => {
       <section className="">
         <footer
           className="text-center text-white"
-          style={{ backgroundColor: "#0a4275" }}
+          style={{ backgroundColor:"#000000" }}
         >
           <div className="container p-4 pb-0">
             <section className="">
