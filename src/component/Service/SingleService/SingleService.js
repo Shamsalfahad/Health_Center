@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const SingleService = (props) => {
-  const { id, name, details, image } = props.service;
+  const { id, name, details, image,} = props.service;
   const url = `/service/${id}/`;
   return (
     <div className="col-lg-4 col-md-6 col-sm-12">

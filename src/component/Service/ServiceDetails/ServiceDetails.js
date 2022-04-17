@@ -37,7 +37,10 @@ const ServiceDetails = () => {
           className="d-flex justify-content-center"
           style={{ marginTop: "7%", marginBottom: "10%" }}
         >
+          <h1>Thank You For Checkout 🙂</h1>
+          <div>
           <img src={spinner} alt="" />
+          </div>
         </div>
       )}
     </>
