@@ -1,9 +1,9 @@
 import React from "react";
 
 const Single = (props) => {
-  const { name, image, degisnation } = props.doctor;
+  const { name, image, degisnation } = props.doc;
   return (
-    <div className="card col-lg-4 col-md-6 mb-lg-0 mb-5">
+    <div className="card col-lg-12 col-md-12 mb-lg-0 mb-5">
       <div className="avatar mx-auto">
         <img
           src={image}

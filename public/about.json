@@ -1,20 +1,10 @@
 [
+   
     {
         "id": 1,
-        "name": "Weight Training",
+        "name": "",
         "degisnation": "",
-        "image": "https://www.svgimages.com/svg-image/s3/weight-lifting-sport-logo-256x256.png"
-    },
-    {
-        "id": 2,
-        "name": "Personal Training",
-        "degisnation": "",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaOpNGb6amHQtRzeZP75jASDZflkfBXk60dw&usqp=CAU"
-    },
-    {
-        "id": 3,
-        "name": "Diet Chart",
-        "degisnation": "",
-        "image": "https://www.logopik.com/wp-content/uploads/edd/2018/06/Diet-Logo-Design.png"
+        "image": "1-modified.png"
     }
+    
 ]
