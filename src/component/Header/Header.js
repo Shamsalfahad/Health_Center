@@ -13,7 +13,7 @@ const Header = () => {
         >
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
-            🏋️‍♀️Health Center
+            <span>🏋️‍♀️</span>Health Center
             </Link>
             <button
               className="navbar-toggler"
